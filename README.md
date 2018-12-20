@@ -17,4 +17,4 @@ http://ico.hongcoin.org
 To have the data from HONG contract, you will also install NodeJS, geth on another machine. After installing all dependencies, start backend machine with:
 `nodejs HongContractDataServer.js`
 
-
+sdfsdf
